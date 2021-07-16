@@ -1,0 +1,56 @@
+{
+  "Object": "SBQQ__ProductOption__c",
+  "References": [
+    {
+      "Name": "SBQQ__ConfiguredSKU__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "cf7f4f2b-1b35-4bd0-8878-b3e7900ef1de"
+      }
+    },
+    {
+      "Name": "SBQQ__OptionalSKU__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "e662092e-7de9-4657-8191-171044bcf914"
+      }
+    },
+    {
+      "Name": "SBQQ__Feature__r",
+      "ReferencedObject": "SBQQ__ProductFeature__c",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "a5a59974-92bb-487f-8b16-501833b4e417"
+      }
+    }
+  ],
+  "Fields": {
+    "SBQQ__AppliedImmediatelyContext__c": "",
+    "SBQQ__AppliedImmediately__c": "false",
+    "SBQQ__Bundled__c": "false",
+    "SBQQ__ComponentCodePosition__c": "",
+    "SBQQ__ComponentCode__c": "",
+    "SBQQ__ComponentDescriptionPosition__c": "",
+    "SBQQ__ComponentDescription__c": "",
+    "SBQQ__DefaultPricingTable__c": "",
+    "SBQQ__DiscountAmount__c": "",
+    "SBQQ__DiscountSchedule__c": "",
+    "SBQQ__Discount__c": "",
+    "SBQQ__DiscountedByPackage__c": "false",
+    "SBQQ__ExistingQuantity__c": "",
+    "SBQQ__MaxQuantity__c": "",
+    "SBQQ__MinQuantity__c": "",
+    "SBQQ__Number__c": "20.0",
+    "SBQQ__QuantityEditable__c": "false",
+    "SBQQ__Quantity__c": "1.0",
+    "SBQQ__QuoteLineVisibility__c": "",
+    "SBQQ__RenewalProductOption__c": "",
+    "SBQQ__Required__c": "false",
+    "SBQQ__Selected__c": "false",
+    "SBQQ__SubscriptionScope__c": "",
+    "SBQQ__System__c": "false",
+    "SBQQ__Type__c": "Component",
+    "SBQQ__UnitPrice__c": "",
+    "SBQQ__UpliftedByPackage__c": "false",
+    "Gearset_External_Id__c": "87213df2-af77-4c94-bf9a-d1a995c65b94"
+  }
+}

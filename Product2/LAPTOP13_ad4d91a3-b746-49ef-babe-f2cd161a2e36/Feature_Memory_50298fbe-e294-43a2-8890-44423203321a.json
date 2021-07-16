@@ -1,0 +1,26 @@
+{
+  "Object": "SBQQ__ProductFeature__c",
+  "References": [
+    {
+      "Name": "SBQQ__ConfiguredSKU__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "ad4d91a3-b746-49ef-babe-f2cd161a2e36"
+      }
+    }
+  ],
+  "Fields": {
+    "Name": "Memory",
+    "SBQQ__Category__c": "",
+    "SBQQ__ConfigurationFieldSet__c": "",
+    "SBQQ__DiscountSchedule__c": "",
+    "SBQQ__DynamicProductFilterFieldSet__c": "",
+    "SBQQ__DynamicProductLookupFieldSet__c": "",
+    "SBQQ__MaxOptionCount__c": "1.0",
+    "SBQQ__MinOptionCount__c": "1.0",
+    "SBQQ__Number__c": "20.0",
+    "SBQQ__OptionSelectionMethod__c": "",
+    "External_ID__c": "FE0005",
+    "Gearset_External_Id__c": "50298fbe-e294-43a2-8890-44423203321a"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Object": "SBQQ__ProductFeature__c",
+  "References": [
+    {
+      "Name": "SBQQ__ConfiguredSKU__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "fba09b04-3931-4f1a-80be-43a87b8aa073"
+      }
+    }
+  ],
+  "Fields": {
+    "Name": "Processor",
+    "SBQQ__Category__c": "",
+    "SBQQ__ConfigurationFieldSet__c": "",
+    "SBQQ__DiscountSchedule__c": "",
+    "SBQQ__DynamicProductFilterFieldSet__c": "",
+    "SBQQ__DynamicProductLookupFieldSet__c": "",
+    "SBQQ__MaxOptionCount__c": "1.0",
+    "SBQQ__MinOptionCount__c": "1.0",
+    "SBQQ__Number__c": "10.0",
+    "SBQQ__OptionSelectionMethod__c": "",
+    "External_ID__c": "",
+    "Gearset_External_Id__c": "fb09b0cd-d03b-4308-9a4b-0fb0629c3fe5"
+  }
+}

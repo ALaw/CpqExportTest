@@ -1,0 +1,26 @@
+{
+  "Object": "SBQQ__ProductFeature__c",
+  "References": [
+    {
+      "Name": "SBQQ__ConfiguredSKU__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "a32b3753-96a6-49ef-aedf-3ad7d1ed7883"
+      }
+    }
+  ],
+  "Fields": {
+    "Name": "Services",
+    "SBQQ__Category__c": "",
+    "SBQQ__ConfigurationFieldSet__c": "",
+    "SBQQ__DiscountSchedule__c": "",
+    "SBQQ__DynamicProductFilterFieldSet__c": "",
+    "SBQQ__DynamicProductLookupFieldSet__c": "",
+    "SBQQ__MaxOptionCount__c": "",
+    "SBQQ__MinOptionCount__c": "0.0",
+    "SBQQ__Number__c": "30.0",
+    "SBQQ__OptionSelectionMethod__c": "",
+    "External_ID__c": "",
+    "Gearset_External_Id__c": "28c8f9a1-1d97-470a-82fc-c0508dc494c7"
+  }
+}
