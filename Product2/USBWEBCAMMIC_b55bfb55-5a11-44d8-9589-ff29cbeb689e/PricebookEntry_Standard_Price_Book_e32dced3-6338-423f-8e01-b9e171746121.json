@@ -1,0 +1,25 @@
+{
+  "Object": "PricebookEntry",
+  "References": [
+    {
+      "Name": "Product2",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "b55bfb55-5a11-44d8-9589-ff29cbeb689e"
+      }
+    },
+    {
+      "Name": "Pricebook2",
+      "ReferencedObject": "Pricebook2",
+      "ReferencedFields": {
+        "Name": "Standard Price Book"
+      }
+    }
+  ],
+  "Fields": {
+    "UnitPrice": "35.0",
+    "IsActive": "true",
+    "UseStandardPrice": "false",
+    "Gearset_External_Id__c": "e32dced3-6338-423f-8e01-b9e171746121"
+  }
+}

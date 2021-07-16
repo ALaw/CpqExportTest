@@ -1,0 +1,9 @@
+{
+  "Object": "Pricebook2",
+  "References": [],
+  "Fields": {
+    "Name": "Standard Price Book",
+    "IsActive": "true",
+    "Description": ""
+  }
+}
