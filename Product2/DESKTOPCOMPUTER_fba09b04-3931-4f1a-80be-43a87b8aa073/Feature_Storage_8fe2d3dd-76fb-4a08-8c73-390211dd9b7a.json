@@ -11,7 +11,7 @@
   ],
   "Fields": {
     "Name": "Storage",
-    "SBQQ__Category__c": "",
+    "SBQQ__Category__c": "Internals",
     "SBQQ__ConfigurationFieldSet__c": "",
     "SBQQ__DiscountSchedule__c": "",
     "SBQQ__DynamicProductFilterFieldSet__c": "",
