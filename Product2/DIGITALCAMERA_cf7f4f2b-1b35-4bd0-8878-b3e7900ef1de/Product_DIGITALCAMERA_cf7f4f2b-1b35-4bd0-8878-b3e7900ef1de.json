@@ -27,7 +27,7 @@
     "SBQQ__ConfigurationFormTitle__c": "",
     "SBQQ__ConfigurationType__c": "Allowed",
     "SBQQ__ConfigurationValidator__c": "",
-    "SBQQ__ConfiguredCodePattern__c": "",
+    "SBQQ__ConfiguredCodePattern__c": "CAMERA{1}",
     "SBQQ__ConfiguredDescriptionPattern__c": "",
     "SBQQ__CostEditable__c": "false",
     "SBQQ__CostSchedule__c": "",
