@@ -3087,6 +3087,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SBQQ__ConfigurationAttribute__c.Gearset_External_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SBQQ__ConfigurationAttribute__c.SBQQ__AppliedImmediately__c</field>
         <readable>true</readable>
     </fieldPermissions>
