@@ -19,7 +19,7 @@
       "Name": "SBQQ__Feature__r",
       "ReferencedObject": "SBQQ__ProductFeature__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "Gearset_External_Id__c": "353e3b92-0a86-4971-bcc7-996781de1eaa"
       }
     }
   ],
