@@ -6432,6 +6432,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>SBQQ__Quote__c.EngravingDefault__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>SBQQ__Quote__c.OpportunityType__c</field>
         <readable>true</readable>
     </fieldPermissions>

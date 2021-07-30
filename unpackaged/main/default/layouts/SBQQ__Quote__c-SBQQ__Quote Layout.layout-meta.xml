@@ -66,6 +66,10 @@
                 <behavior>Edit</behavior>
                 <field>ReferralCode__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>EngravingDefault__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
