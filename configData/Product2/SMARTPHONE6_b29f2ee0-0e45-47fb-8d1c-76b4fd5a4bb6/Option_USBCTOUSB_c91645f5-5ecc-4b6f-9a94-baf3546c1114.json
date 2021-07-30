@@ -54,6 +54,7 @@
     "Gearset_External_Id__c": "c91645f5-5ecc-4b6f-9a94-baf3546c1114",
     "Size__c": "",
     "Accent__c": "",
-    "Engraving__c": ""
+    "Engraving__c": "",
+    "Outlet_Standard__c": ""
   }
 }
