@@ -20,6 +20,10 @@
             <translation><!-- Engraving__c --></translation>
         </picklistValues>
         <picklistValues>
+            <masterLabel>Outlet_Standard__c</masterLabel>
+            <translation><!-- Outlet_Standard__c --></translation>
+        </picklistValues>
+        <picklistValues>
             <masterLabel>Size__c</masterLabel>
             <translation><!-- Size__c --></translation>
         </picklistValues>

@@ -42,6 +42,11 @@
                 <default>false</default>
                 <label>Engraving__c</label>
             </value>
+            <value>
+                <fullName>Outlet_Standard__c</fullName>
+                <default>false</default>
+                <label>Outlet_Standard__c</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

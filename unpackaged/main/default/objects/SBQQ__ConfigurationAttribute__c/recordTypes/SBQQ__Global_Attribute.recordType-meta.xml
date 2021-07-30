@@ -60,6 +60,10 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Outlet_Standard%5F%5Fc</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Size%5F%5Fc</fullName>
             <default>false</default>
         </values>
