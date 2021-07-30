@@ -16,6 +16,10 @@
             <translation>割引 (金額)</translation>
         </picklistValues>
         <picklistValues>
+            <masterLabel>Engraving__c</masterLabel>
+            <translation><!-- Engraving__c --></translation>
+        </picklistValues>
+        <picklistValues>
             <masterLabel>Size__c</masterLabel>
             <translation><!-- Size__c --></translation>
         </picklistValues>

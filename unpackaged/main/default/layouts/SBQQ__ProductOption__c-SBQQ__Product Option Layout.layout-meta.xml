@@ -55,6 +55,10 @@
                 <behavior>Edit</behavior>
                 <field>Accent__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Engraving__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
