@@ -4,12 +4,20 @@
         <label><!-- Target Field --></label>
         <name>SBQQ__TargetField__c</name>
         <picklistValues>
+            <masterLabel>Accent__c</masterLabel>
+            <translation><!-- Accent__c --></translation>
+        </picklistValues>
+        <picklistValues>
             <masterLabel>Discount (%)</masterLabel>
             <translation>割引 (%)</translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Discount (Amt)</masterLabel>
             <translation>割引 (金額)</translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Size__c</masterLabel>
+            <translation><!-- Size__c --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Unit Price</masterLabel>
