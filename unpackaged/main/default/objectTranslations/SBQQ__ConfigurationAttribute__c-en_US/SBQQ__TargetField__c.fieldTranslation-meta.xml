@@ -8,6 +8,10 @@
             <translation><!-- Accent__c --></translation>
         </picklistValues>
         <picklistValues>
+            <masterLabel>Color__c</masterLabel>
+            <translation><!-- Color__c --></translation>
+        </picklistValues>
+        <picklistValues>
             <masterLabel>Discount (%)</masterLabel>
             <translation><!-- Discount (%) --></translation>
         </picklistValues>
@@ -18,6 +22,10 @@
         <picklistValues>
             <masterLabel>Engraving__c</masterLabel>
             <translation><!-- Engraving__c --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Material__c</masterLabel>
+            <translation><!-- Material__c --></translation>
         </picklistValues>
         <picklistValues>
             <masterLabel>Outlet_Standard__c</masterLabel>

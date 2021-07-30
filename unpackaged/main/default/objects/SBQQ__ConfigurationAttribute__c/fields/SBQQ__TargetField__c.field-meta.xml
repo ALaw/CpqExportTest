@@ -47,6 +47,16 @@
                 <default>false</default>
                 <label>Outlet_Standard__c</label>
             </value>
+            <value>
+                <fullName>Material__c</fullName>
+                <default>false</default>
+                <label>Material__c</label>
+            </value>
+            <value>
+                <fullName>Color__c</fullName>
+                <default>false</default>
+                <label>Color__c</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
