@@ -44,7 +44,7 @@
     "SBQQ__ExcludeFromOpportunity__c": "false",
     "SBQQ__ExternallyConfigurable__c": "false",
     "SBQQ__GenerateContractedPrice__c": "",
-    "SBQQ__HasConfigurationAttributes__c": "false",
+    "SBQQ__HasConfigurationAttributes__c": "true",
     "SBQQ__Hidden__c": "false",
     "SBQQ__HidePriceInSearchResults__c": "false",
     "SBQQ__IncludeInMaintenance__c": "false",

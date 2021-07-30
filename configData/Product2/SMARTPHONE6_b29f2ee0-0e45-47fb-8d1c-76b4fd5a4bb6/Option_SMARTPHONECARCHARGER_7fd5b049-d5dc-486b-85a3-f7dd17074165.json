@@ -51,6 +51,8 @@
     "SBQQ__Type__c": "Component",
     "SBQQ__UnitPrice__c": "",
     "SBQQ__UpliftedByPackage__c": "false",
-    "Gearset_External_Id__c": "7fd5b049-d5dc-486b-85a3-f7dd17074165"
+    "Gearset_External_Id__c": "7fd5b049-d5dc-486b-85a3-f7dd17074165",
+    "Size__c": "",
+    "Accent__c": ""
   }
 }
