@@ -53,8 +53,10 @@
     "SBQQ__UpliftedByPackage__c": "false",
     "Gearset_External_Id__c": "33e3030a-56f7-4d51-b9c2-09309c68285a",
     "Size__c": "",
-    "Accent__c": "",
+    "Accent__c": "Light Gray",
     "Engraving__c": "",
-    "Outlet_Standard__c": ""
+    "Outlet_Standard__c": "",
+    "Material__c": "Silicone",
+    "Color__c": "Dark Gray"
   }
 }

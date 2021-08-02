@@ -55,6 +55,8 @@
     "Size__c": "",
     "Accent__c": "",
     "Engraving__c": "",
-    "Outlet_Standard__c": ""
+    "Outlet_Standard__c": "",
+    "Material__c": "",
+    "Color__c": ""
   }
 }

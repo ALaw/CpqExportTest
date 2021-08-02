@@ -53,8 +53,10 @@
     "SBQQ__UpliftedByPackage__c": "false",
     "Gearset_External_Id__c": "1b033e6f-21e2-4210-beb1-98cae9331257",
     "Size__c": "",
-    "Accent__c": "",
+    "Accent__c": "Gold",
     "Engraving__c": "",
-    "Outlet_Standard__c": ""
+    "Outlet_Standard__c": "",
+    "Material__c": "Leather",
+    "Color__c": "Brown"
   }
 }
