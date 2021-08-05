@@ -1847,6 +1847,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SBQQ__ConfigurationRule__c.Gearset_External_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SBQQ__ErrorCondition__c.Gearset_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -1943,6 +1948,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>SBQQ__Quote__c.ReferralCode__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SBQQ__SummaryVariable__c.Gearset_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
