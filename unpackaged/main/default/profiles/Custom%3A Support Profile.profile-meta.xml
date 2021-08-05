@@ -2967,6 +2967,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SBQQ__AttributeSet__c.Gearset_External_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SBQQ__AttributeValue__c.SBQQ__Asset__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4652,6 +4657,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SBQQ__ProductAttributeSet__c.Gearset_External_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SBQQ__ProductAttributeSet__c.SBQQ__AttributeSet__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -4673,6 +4683,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>SBQQ__ProductAttributeSet__c.SBQQ__ProductOption__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SBQQ__ProductAttribute__c.Gearset_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
