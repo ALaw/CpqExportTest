@@ -28,6 +28,10 @@
                 <behavior>Edit</behavior>
                 <field>SBQQ__EvaluationOrder__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Gearset_External_Id__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>

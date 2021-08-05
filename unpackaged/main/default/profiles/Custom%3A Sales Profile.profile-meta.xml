@@ -3647,6 +3647,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>SBQQ__ErrorCondition__c.Gearset_External_Id__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>SBQQ__ErrorCondition__c.SBQQ__FilterType__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -5013,6 +5018,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>SBQQ__ProductOption__c.Size__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SBQQ__ProductRule__c.Gearset_External_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
