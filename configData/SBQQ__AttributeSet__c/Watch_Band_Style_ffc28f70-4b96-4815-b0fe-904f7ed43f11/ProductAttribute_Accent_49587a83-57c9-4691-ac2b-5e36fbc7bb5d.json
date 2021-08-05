@@ -1,0 +1,30 @@
+{
+  "Object": "SBQQ__ProductAttribute__c",
+  "References": [
+    {
+      "Name": "SBQQ__AttributeSet__r",
+      "ReferencedObject": "SBQQ__AttributeSet__c",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "ffc28f70-4b96-4815-b0fe-904f7ed43f11"
+      }
+    },
+    {
+      "Name": "SBQQ__Attribute__r",
+      "ReferencedObject": "SBQQ__ConfigurationAttribute__c",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "d2d522aa-43ba-4d93-841e-16f2ebc5db76"
+      }
+    }
+  ],
+  "Fields": {
+    "SBQQ__AppliedImmediately__c": "",
+    "SBQQ__ApplyToProductOptions__c": "",
+    "SBQQ__AutoSelect__c": "",
+    "SBQQ__HiddenValues__c": "",
+    "SBQQ__Hidden__c": "",
+    "SBQQ__Required__c": "",
+    "SBQQ__Sequence__c": "30.0",
+    "SBQQ__ShownValues__c": "",
+    "Gearset_External_Id__c": "49587a83-57c9-4691-ac2b-5e36fbc7bb5d"
+  }
+}

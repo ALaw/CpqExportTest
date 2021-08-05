@@ -1,0 +1,23 @@
+{
+  "Object": "SBQQ__ProductAttributeSet__c",
+  "References": [
+    {
+      "Name": "SBQQ__AttributeSet__r",
+      "ReferencedObject": "SBQQ__AttributeSet__c",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "ffc28f70-4b96-4815-b0fe-904f7ed43f11"
+      }
+    },
+    {
+      "Name": "SBQQ__ProductOption__r",
+      "ReferencedObject": "SBQQ__ProductOption__c",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "33e3030a-56f7-4d51-b9c2-09309c68285a"
+      }
+    }
+  ],
+  "Fields": {
+    "SBQQ__Sequence__c": "10.0",
+    "Gearset_External_Id__c": "81c4bdf7-bfbe-47ee-a79a-a0d2a7450086"
+  }
+}
