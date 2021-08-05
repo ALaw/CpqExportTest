@@ -1,0 +1,24 @@
+{
+  "Object": "SBQQ__ErrorCondition__c",
+  "References": [
+    {
+      "Name": "SBQQ__Rule__r",
+      "ReferencedObject": "SBQQ__ProductRule__c",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "0a15a516-7ddc-481b-a223-d6b1f40aa34b"
+      }
+    }
+  ],
+  "Fields": {
+    "SBQQ__FilterType__c": "Value",
+    "SBQQ__FilterValue__c": "WARRANTYEXTENSION",
+    "SBQQ__FilterVariable__c": "",
+    "SBQQ__Index__c": "",
+    "SBQQ__Operator__c": "equals",
+    "SBQQ__TestedAttribute__c": "",
+    "SBQQ__TestedField__c": "SBQQ__ProductCode__c",
+    "SBQQ__TestedObject__c": "Quote Line",
+    "SBQQ__TestedVariable__c": "",
+    "Gearset_External_Id__c": "8e019928-3252-4f95-b3a9-1d2dc975a9e1"
+  }
+}
