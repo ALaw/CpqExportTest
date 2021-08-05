@@ -5,7 +5,7 @@
       "Name": "SBQQ__Rule__r",
       "ReferencedObject": "SBQQ__ProductRule__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "0a15a516-7ddc-481b-a223-d6b1f40aa34b"
+        "Gearset_External_Id__c": "a4dee5de-61ea-4113-9c7c-4901ed9a135e"
       }
     },
     {
@@ -19,18 +19,18 @@
       "Name": "SBQQ__TestedVariable__r",
       "ReferencedObject": "SBQQ__SummaryVariable__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "Gearset_External_Id__c": "ebc62048-c3c9-4fa1-b8e2-8602ea4012fc"
       }
     }
   ],
   "Fields": {
     "SBQQ__FilterType__c": "Value",
-    "SBQQ__FilterValue__c": "New Customer",
+    "SBQQ__FilterValue__c": "0",
     "SBQQ__Index__c": "",
     "SBQQ__Operator__c": "equals",
     "SBQQ__TestedAttribute__c": "",
-    "SBQQ__TestedField__c": "OpportunityType__c",
-    "SBQQ__TestedObject__c": "Quote",
-    "Gearset_External_Id__c": "88cccae3-78ea-49a0-92b1-4fd0213a38cb"
+    "SBQQ__TestedField__c": "",
+    "SBQQ__TestedObject__c": "",
+    "Gearset_External_Id__c": "f40f0b66-bc9b-4d08-bd2d-bea8a30f3625"
   }
 }
