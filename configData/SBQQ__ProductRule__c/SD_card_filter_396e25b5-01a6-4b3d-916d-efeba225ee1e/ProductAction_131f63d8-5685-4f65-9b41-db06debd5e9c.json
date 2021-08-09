@@ -1,0 +1,30 @@
+{
+  "Object": "SBQQ__ProductAction__c",
+  "References": [
+    {
+      "Name": "SBQQ__Rule__r",
+      "ReferencedObject": "SBQQ__ProductRule__c",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": "396e25b5-01a6-4b3d-916d-efeba225ee1e"
+      }
+    },
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": ""
+      }
+    }
+  ],
+  "Fields": {
+    "SBQQ__FilterField__c": "Product Code",
+    "SBQQ__FilterValue__c": "SDCARD",
+    "SBQQ__Operator__c": "starts with",
+    "SBQQ__Required__c": "false",
+    "SBQQ__Type__c": "Default Filter",
+    "SBQQ__ValueAttribute__c": "",
+    "SBQQ__ValueField__c": "",
+    "SBQQ__ValueObject__c": "",
+    "Gearset_External_Id__c": "131f63d8-5685-4f65-9b41-db06debd5e9c"
+  }
+}
