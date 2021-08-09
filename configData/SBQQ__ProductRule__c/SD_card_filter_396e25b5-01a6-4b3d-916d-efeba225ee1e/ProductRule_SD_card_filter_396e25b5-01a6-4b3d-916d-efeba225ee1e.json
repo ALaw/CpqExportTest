@@ -1,0 +1,21 @@
+{
+  "Object": "SBQQ__ProductRule__c",
+  "References": [],
+  "Fields": {
+    "Name": "SD card filter",
+    "SBQQ__Active__c": "true",
+    "SBQQ__AdvancedCondition__c": "",
+    "SBQQ__ConditionsMet__c": "All",
+    "SBQQ__ErrorMessage__c": "",
+    "SBQQ__EvaluationEvent__c": "Load",
+    "SBQQ__EvaluationOrder__c": "",
+    "SBQQ__LookupMessageField__c": "",
+    "SBQQ__LookupObject__c": "",
+    "SBQQ__LookupProductField__c": "",
+    "SBQQ__LookupRequiredField__c": "",
+    "SBQQ__LookupTypeField__c": "",
+    "SBQQ__Scope__c": "Product",
+    "SBQQ__Type__c": "Filter",
+    "Gearset_External_Id__c": "396e25b5-01a6-4b3d-916d-efeba225ee1e"
+  }
+}
