@@ -28,7 +28,6 @@
     "SBQQ__FilterValue__c": "Education",
     "SBQQ__Index__c": "",
     "SBQQ__Operator__c": "not equals",
-    "SBQQ__TestedAttribute__c": "",
     "SBQQ__TestedField__c": "AccountIndustry__c",
     "SBQQ__TestedObject__c": "Quote",
     "Gearset_External_Id__c": "68dc7291-effb-4a99-8565-b195cedde6c1"

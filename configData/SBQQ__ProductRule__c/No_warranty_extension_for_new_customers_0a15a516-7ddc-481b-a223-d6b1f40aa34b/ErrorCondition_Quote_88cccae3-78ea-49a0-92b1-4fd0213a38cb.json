@@ -28,7 +28,6 @@
     "SBQQ__FilterValue__c": "New Customer",
     "SBQQ__Index__c": "",
     "SBQQ__Operator__c": "equals",
-    "SBQQ__TestedAttribute__c": "",
     "SBQQ__TestedField__c": "OpportunityType__c",
     "SBQQ__TestedObject__c": "Quote",
     "Gearset_External_Id__c": "88cccae3-78ea-49a0-92b1-4fd0213a38cb"

@@ -28,7 +28,6 @@
     "SBQQ__FilterValue__c": "WARRANTYEXTENSION",
     "SBQQ__Index__c": "",
     "SBQQ__Operator__c": "equals",
-    "SBQQ__TestedAttribute__c": "",
     "SBQQ__TestedField__c": "SBQQ__ProductCode__c",
     "SBQQ__TestedObject__c": "Quote Line",
     "Gearset_External_Id__c": "8e019928-3252-4f95-b3a9-1d2dc975a9e1"
