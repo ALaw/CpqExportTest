@@ -18,7 +18,6 @@
   ],
   "Fields": {
     "Name": "Outlet Standard",
-    "RecordTypeId": "",
     "SBQQ__AppliedImmediately__c": "false",
     "SBQQ__ApplyToProductOptions__c": "false",
     "SBQQ__AutoSelect__c": "false",
@@ -32,6 +31,7 @@
     "SBQQ__Required__c": "true",
     "SBQQ__ShownValues__c": "",
     "SBQQ__TargetField__c": "Outlet_Standard__c",
-    "Gearset_External_Id__c": "5e2a0b8b-4b36-4f36-a00c-529e5ff3a038"
+    "Gearset_External_Id__c": "5e2a0b8b-4b36-4f36-a00c-529e5ff3a038",
+    "RecordType.Name": ""
   }
 }

@@ -18,7 +18,6 @@
   ],
   "Fields": {
     "Name": "Material",
-    "RecordTypeId": "0124L000000MV64QAG",
     "SBQQ__AppliedImmediately__c": "false",
     "SBQQ__ApplyToProductOptions__c": "false",
     "SBQQ__AutoSelect__c": "false",
@@ -32,6 +31,7 @@
     "SBQQ__Required__c": "false",
     "SBQQ__ShownValues__c": "",
     "SBQQ__TargetField__c": "Material__c",
-    "Gearset_External_Id__c": "c6644846-2b69-4a57-b365-aa829c93b3bb"
+    "Gearset_External_Id__c": "c6644846-2b69-4a57-b365-aa829c93b3bb",
+    "RecordType.Name": "Global Attribute"
   }
 }

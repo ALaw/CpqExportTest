@@ -18,7 +18,6 @@
   ],
   "Fields": {
     "Name": "Accent",
-    "RecordTypeId": "0124L000000MV64QAG",
     "SBQQ__AppliedImmediately__c": "false",
     "SBQQ__ApplyToProductOptions__c": "false",
     "SBQQ__AutoSelect__c": "false",
@@ -32,6 +31,7 @@
     "SBQQ__Required__c": "false",
     "SBQQ__ShownValues__c": "",
     "SBQQ__TargetField__c": "Accent__c",
-    "Gearset_External_Id__c": "d2d522aa-43ba-4d93-841e-16f2ebc5db76"
+    "Gearset_External_Id__c": "d2d522aa-43ba-4d93-841e-16f2ebc5db76",
+    "RecordType.Name": "Global Attribute"
   }
 }
