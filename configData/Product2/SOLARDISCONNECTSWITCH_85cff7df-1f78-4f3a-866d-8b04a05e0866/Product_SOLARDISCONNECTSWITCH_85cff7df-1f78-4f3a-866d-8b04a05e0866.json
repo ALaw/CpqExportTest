@@ -1,6 +1,42 @@
 {
   "Object": "Product2",
-  "References": [],
+  "References": [
+    {
+      "Name": "SBQQ__SubscriptionTarget__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__RenewalProduct__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__UpgradeCredit__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__UpgradeSource__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__UpgradeTarget__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": ""
+      }
+    }
+  ],
   "Fields": {
     "Name": "Solar Disconnect Switch",
     "ProductCode": "SOLARDISCONNECTSWITCH",

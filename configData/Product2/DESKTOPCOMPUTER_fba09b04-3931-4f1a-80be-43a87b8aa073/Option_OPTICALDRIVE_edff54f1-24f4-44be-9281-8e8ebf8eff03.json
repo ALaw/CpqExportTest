@@ -21,6 +21,13 @@
       "ReferencedFields": {
         "Gearset_External_Id__c": "8fe2d3dd-76fb-4a08-8c73-390211dd9b7a"
       }
+    },
+    {
+      "Name": "SBQQ__RenewalProductOption__r",
+      "ReferencedObject": "SBQQ__ProductOption__c",
+      "ReferencedFields": {
+        "Gearset_External_Id__c": ""
+      }
     }
   ],
   "Fields": {
