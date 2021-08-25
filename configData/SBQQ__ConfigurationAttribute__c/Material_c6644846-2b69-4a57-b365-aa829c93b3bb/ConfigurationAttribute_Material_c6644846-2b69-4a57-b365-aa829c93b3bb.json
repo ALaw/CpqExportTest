@@ -5,14 +5,14 @@
       "Name": "SBQQ__Product__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     },
     {
       "Name": "SBQQ__Feature__r",
       "ReferencedObject": "SBQQ__ProductFeature__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     }
   ],
@@ -31,7 +31,7 @@
     "SBQQ__Required__c": "false",
     "SBQQ__ShownValues__c": "",
     "SBQQ__TargetField__c": "Material__c",
-    "Gearset_External_Id__c": "c6644846-2b69-4a57-b365-aa829c93b3bb",
+    "GearsetExternalId__c": "c6644846-2b69-4a57-b365-aa829c93b3bb",
     "RecordType.Name": "Global Attribute"
   }
 }

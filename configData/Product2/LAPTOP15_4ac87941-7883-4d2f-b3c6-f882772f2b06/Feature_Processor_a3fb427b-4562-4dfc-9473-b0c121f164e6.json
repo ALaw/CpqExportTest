@@ -5,7 +5,7 @@
       "Name": "SBQQ__ConfiguredSKU__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "4ac87941-7883-4d2f-b3c6-f882772f2b06"
+        "GearsetExternalId__c": "4ac87941-7883-4d2f-b3c6-f882772f2b06"
       }
     }
   ],
@@ -20,6 +20,6 @@
     "SBQQ__Number__c": "10.0",
     "SBQQ__OptionSelectionMethod__c": "",
     "External_ID__c": "FE0001",
-    "Gearset_External_Id__c": "a3fb427b-4562-4dfc-9473-b0c121f164e6"
+    "GearsetExternalId__c": "a3fb427b-4562-4dfc-9473-b0c121f164e6"
   }
 }

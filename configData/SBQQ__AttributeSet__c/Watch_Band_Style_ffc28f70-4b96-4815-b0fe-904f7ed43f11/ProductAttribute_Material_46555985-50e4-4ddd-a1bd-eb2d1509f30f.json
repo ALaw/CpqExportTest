@@ -5,14 +5,14 @@
       "Name": "SBQQ__AttributeSet__r",
       "ReferencedObject": "SBQQ__AttributeSet__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "ffc28f70-4b96-4815-b0fe-904f7ed43f11"
+        "GearsetExternalId__c": "ffc28f70-4b96-4815-b0fe-904f7ed43f11"
       }
     },
     {
       "Name": "SBQQ__Attribute__r",
       "ReferencedObject": "SBQQ__ConfigurationAttribute__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "c6644846-2b69-4a57-b365-aa829c93b3bb"
+        "GearsetExternalId__c": "c6644846-2b69-4a57-b365-aa829c93b3bb"
       }
     }
   ],
@@ -25,6 +25,6 @@
     "SBQQ__Required__c": "",
     "SBQQ__Sequence__c": "10.0",
     "SBQQ__ShownValues__c": "",
-    "Gearset_External_Id__c": "46555985-50e4-4ddd-a1bd-eb2d1509f30f"
+    "GearsetExternalId__c": "46555985-50e4-4ddd-a1bd-eb2d1509f30f"
   }
 }

@@ -5,7 +5,7 @@
       "Name": "SBQQ__CombineWith__r",
       "ReferencedObject": "SBQQ__SummaryVariable__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     }
   ],
@@ -21,6 +21,6 @@
     "SBQQ__Scope__c": "Quote",
     "SBQQ__TargetObject__c": "Product Option",
     "SBQQ__ValueElement__c": "",
-    "Gearset_External_Id__c": "e2f92608-b6f3-4a86-8ee3-12a6112c8373"
+    "GearsetExternalId__c": "e2f92608-b6f3-4a86-8ee3-12a6112c8373"
   }
 }

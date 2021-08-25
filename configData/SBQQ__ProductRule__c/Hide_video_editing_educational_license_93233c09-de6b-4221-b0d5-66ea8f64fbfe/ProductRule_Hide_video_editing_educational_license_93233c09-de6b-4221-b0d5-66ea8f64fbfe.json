@@ -16,6 +16,6 @@
     "SBQQ__LookupTypeField__c": "",
     "SBQQ__Scope__c": "Product",
     "SBQQ__Type__c": "Selection",
-    "Gearset_External_Id__c": "93233c09-de6b-4221-b0d5-66ea8f64fbfe"
+    "GearsetExternalId__c": "93233c09-de6b-4221-b0d5-66ea8f64fbfe"
   }
 }

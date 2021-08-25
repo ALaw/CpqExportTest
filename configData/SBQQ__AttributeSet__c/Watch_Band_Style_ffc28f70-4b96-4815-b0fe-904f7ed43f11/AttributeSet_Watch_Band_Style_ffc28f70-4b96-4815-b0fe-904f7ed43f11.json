@@ -3,6 +3,6 @@
   "References": [],
   "Fields": {
     "Name": "Watch Band Style",
-    "Gearset_External_Id__c": "ffc28f70-4b96-4815-b0fe-904f7ed43f11"
+    "GearsetExternalId__c": "ffc28f70-4b96-4815-b0fe-904f7ed43f11"
   }
 }

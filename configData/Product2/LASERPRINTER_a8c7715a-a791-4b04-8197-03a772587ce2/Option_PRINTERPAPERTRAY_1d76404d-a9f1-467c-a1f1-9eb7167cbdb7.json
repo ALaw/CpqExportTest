@@ -5,28 +5,28 @@
       "Name": "SBQQ__ConfiguredSKU__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "a8c7715a-a791-4b04-8197-03a772587ce2"
+        "GearsetExternalId__c": "a8c7715a-a791-4b04-8197-03a772587ce2"
       }
     },
     {
       "Name": "SBQQ__OptionalSKU__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "15d74875-d697-4eac-8885-7ca4c9097285"
+        "GearsetExternalId__c": "15d74875-d697-4eac-8885-7ca4c9097285"
       }
     },
     {
       "Name": "SBQQ__Feature__r",
       "ReferencedObject": "SBQQ__ProductFeature__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     },
     {
       "Name": "SBQQ__RenewalProductOption__r",
       "ReferencedObject": "SBQQ__ProductOption__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     }
   ],
@@ -56,7 +56,7 @@
     "SBQQ__Type__c": "Component",
     "SBQQ__UnitPrice__c": "",
     "SBQQ__UpliftedByPackage__c": "false",
-    "Gearset_External_Id__c": "1d76404d-a9f1-467c-a1f1-9eb7167cbdb7",
+    "GearsetExternalId__c": "1d76404d-a9f1-467c-a1f1-9eb7167cbdb7",
     "Size__c": "",
     "Accent__c": "",
     "Engraving__c": "",

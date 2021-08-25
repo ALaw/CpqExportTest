@@ -5,21 +5,21 @@
       "Name": "SBQQ__ConfiguredSKU__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "7d979fbf-69d2-4512-83d3-6f840763c9a8"
+        "GearsetExternalId__c": "7d979fbf-69d2-4512-83d3-6f840763c9a8"
       }
     },
     {
       "Name": "SBQQ__ConstrainedOption__r",
       "ReferencedObject": "SBQQ__ProductOption__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "6423959b-0123-4a88-84b2-6870ee375e0b"
+        "GearsetExternalId__c": "6423959b-0123-4a88-84b2-6870ee375e0b"
       }
     },
     {
       "Name": "SBQQ__ConstrainingOption__r",
       "ReferencedObject": "SBQQ__ProductOption__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "be2de6f0-0df4-422f-8cda-8693cf4df556"
+        "GearsetExternalId__c": "be2de6f0-0df4-422f-8cda-8693cf4df556"
       }
     }
   ],
@@ -29,6 +29,6 @@
     "SBQQ__CheckPriorPurchases__c": "false",
     "SBQQ__OptionConstraintGroup__c": "",
     "SBQQ__Type__c": "Dependency",
-    "Gearset_External_Id__c": "e04113b7-570c-4552-b48f-2ae7dd38bad2"
+    "GearsetExternalId__c": "e04113b7-570c-4552-b48f-2ae7dd38bad2"
   }
 }

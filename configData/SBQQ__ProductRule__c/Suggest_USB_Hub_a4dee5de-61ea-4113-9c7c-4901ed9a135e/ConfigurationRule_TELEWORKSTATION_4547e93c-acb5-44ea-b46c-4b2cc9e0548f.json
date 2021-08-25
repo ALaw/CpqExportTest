@@ -5,21 +5,21 @@
       "Name": "SBQQ__ProductRule__r",
       "ReferencedObject": "SBQQ__ProductRule__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "a4dee5de-61ea-4113-9c7c-4901ed9a135e"
+        "GearsetExternalId__c": "a4dee5de-61ea-4113-9c7c-4901ed9a135e"
       }
     },
     {
       "Name": "SBQQ__Product__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "87d9eddb-8f4d-48ab-9d7c-aa8eb9d02d27"
+        "GearsetExternalId__c": "87d9eddb-8f4d-48ab-9d7c-aa8eb9d02d27"
       }
     },
     {
       "Name": "SBQQ__ProductFeature__r",
       "ReferencedObject": "SBQQ__ProductFeature__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     }
   ],
@@ -28,6 +28,6 @@
     "SBQQ__AscendingNestedLevel__c": "",
     "SBQQ__DescendingActionNesting__c": "",
     "SBQQ__DescendingNestedLevel__c": "",
-    "Gearset_External_Id__c": "4547e93c-acb5-44ea-b46c-4b2cc9e0548f"
+    "GearsetExternalId__c": "4547e93c-acb5-44ea-b46c-4b2cc9e0548f"
   }
 }

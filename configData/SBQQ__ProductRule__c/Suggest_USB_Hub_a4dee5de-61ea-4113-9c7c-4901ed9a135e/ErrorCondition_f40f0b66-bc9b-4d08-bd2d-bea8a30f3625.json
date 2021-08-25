@@ -5,28 +5,28 @@
       "Name": "SBQQ__Rule__r",
       "ReferencedObject": "SBQQ__ProductRule__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "a4dee5de-61ea-4113-9c7c-4901ed9a135e"
+        "GearsetExternalId__c": "a4dee5de-61ea-4113-9c7c-4901ed9a135e"
       }
     },
     {
       "Name": "SBQQ__FilterVariable__r",
       "ReferencedObject": "SBQQ__SummaryVariable__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     },
     {
       "Name": "SBQQ__TestedVariable__r",
       "ReferencedObject": "SBQQ__SummaryVariable__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "ebc62048-c3c9-4fa1-b8e2-8602ea4012fc"
+        "GearsetExternalId__c": "ebc62048-c3c9-4fa1-b8e2-8602ea4012fc"
       }
     },
     {
       "Name": "SBQQ__TestedAttribute__r",
       "ReferencedObject": "SBQQ__ProductAttribute__c",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     }
   ],
@@ -37,6 +37,6 @@
     "SBQQ__Operator__c": "equals",
     "SBQQ__TestedField__c": "",
     "SBQQ__TestedObject__c": "",
-    "Gearset_External_Id__c": "f40f0b66-bc9b-4d08-bd2d-bea8a30f3625"
+    "GearsetExternalId__c": "f40f0b66-bc9b-4d08-bd2d-bea8a30f3625"
   }
 }

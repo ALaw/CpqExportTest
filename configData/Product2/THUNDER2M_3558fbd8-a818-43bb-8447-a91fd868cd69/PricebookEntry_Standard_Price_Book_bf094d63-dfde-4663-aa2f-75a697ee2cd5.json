@@ -5,7 +5,7 @@
       "Name": "Product2",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": "3558fbd8-a818-43bb-8447-a91fd868cd69"
+        "GearsetExternalId__c": "3558fbd8-a818-43bb-8447-a91fd868cd69"
       }
     },
     {
@@ -20,6 +20,6 @@
     "UnitPrice": "40.0",
     "IsActive": "true",
     "UseStandardPrice": "false",
-    "Gearset_External_Id__c": "bf094d63-dfde-4663-aa2f-75a697ee2cd5"
+    "GearsetExternalId__c": "bf094d63-dfde-4663-aa2f-75a697ee2cd5"
   }
 }

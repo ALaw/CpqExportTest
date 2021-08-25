@@ -5,35 +5,35 @@
       "Name": "SBQQ__SubscriptionTarget__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     },
     {
       "Name": "SBQQ__RenewalProduct__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     },
     {
       "Name": "SBQQ__UpgradeCredit__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     },
     {
       "Name": "SBQQ__UpgradeSource__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     },
     {
       "Name": "SBQQ__UpgradeTarget__r",
       "ReferencedObject": "Product2",
       "ReferencedFields": {
-        "Gearset_External_Id__c": ""
+        "GearsetExternalId__c": ""
       }
     }
   ],
@@ -108,6 +108,6 @@
     "SBQQ__HasConsumptionSchedule__c": "false",
     "SBQQ__EnableLargeConfiguration__c": "false",
     "Extras__c": "false",
-    "Gearset_External_Id__c": "d9badb04-a57d-4424-8359-14e2c18cf301"
+    "GearsetExternalId__c": "d9badb04-a57d-4424-8359-14e2c18cf301"
   }
 }
