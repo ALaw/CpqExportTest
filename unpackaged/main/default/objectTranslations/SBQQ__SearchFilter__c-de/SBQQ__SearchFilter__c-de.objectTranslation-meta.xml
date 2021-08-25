@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <caseType>Nominative</caseType>
@@ -52,13 +52,6 @@
     
     
     <gender>Masculine</gender>
-    <layouts>
-        <layout>Search Filter Layout</layout>
-        <sections>
-            <label>Erweiterte Informationen</label>
-            <section>Advanced Information</section>
-        </sections>
-    </layouts>
     <nameFieldLabel>Filtername</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- You must select Filter Source Object when Filter Source Field is selected. --></errorMessage>

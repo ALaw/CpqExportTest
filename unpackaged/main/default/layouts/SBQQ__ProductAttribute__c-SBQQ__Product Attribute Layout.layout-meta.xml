@@ -25,7 +25,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Gearset_External_Id__c</field>
+                <field>GearsetExternalId__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns/>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
@@ -38,17 +38,6 @@
     
     
     <gender>Feminine</gender>
-    <layouts>
-        <layout>Line Column Layout</layout>
-        <sections>
-            <label>Opciones de columna</label>
-            <section>Column Options</section>
-        </sections>
-        <sections>
-            <label>Información de estilo</label>
-            <section>Style Information</section>
-        </sections>
-    </layouts>
     <nameFieldLabel>Encabezado de columna</nameFieldLabel>
     <webLinks>
         <label><!-- Translate --></label>

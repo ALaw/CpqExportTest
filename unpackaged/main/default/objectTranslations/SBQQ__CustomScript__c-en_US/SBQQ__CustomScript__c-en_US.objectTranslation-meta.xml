@@ -1,17 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    
-    
-    
-    
-    
-    
-    
-    <layouts>
-        <layout>Custom Script Layout</layout>
-        <sections>
-            <label><!-- Transpiling --></label>
-            <section>Transpiling</section>
-        </sections>
-    </layouts>
 </CustomObjectTranslation>

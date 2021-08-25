@@ -1,28 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
-    <layouts>
-        <layout>CPQ Product Layout</layout>
-        <sections>
-            <label>Campos</label>
-            <section>Fields</section>
-        </sections>
-        <sections>
-            <label>Renovações</label>
-            <section>Renewals</section>
-        </sections>
-        <sections>
-            <label>Configuração do Salesforce CPQ</label>
-            <section>Salesforce CPQ Configuration</section>
-        </sections>
-        <sections>
-            <label>Assinaturas</label>
-            <section>Subscriptions</section>
-        </sections>
-        <sections>
-            <label>Upgrades</label>
-            <section>Upgrades</section>
-        </sections>
-    </layouts>
     <layouts>
         <layout>Training Product Layout</layout>
         <sections>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
@@ -17,13 +17,6 @@
     
     
     <gender>Masculine</gender>
-    <layouts>
-        <layout>Template Content Layout</layout>
-        <sections>
-            <label>Corps</label>
-            <section>Body</section>
-        </sections>
-    </layouts>
     <nameFieldLabel>Nom du contenu</nameFieldLabel>
     <startsWith>Consonant</startsWith>
     <webLinks>

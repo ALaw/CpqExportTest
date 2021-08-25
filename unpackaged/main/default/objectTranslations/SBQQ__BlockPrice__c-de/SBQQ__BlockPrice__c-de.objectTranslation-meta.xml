@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <caseType>Nominative</caseType>
@@ -50,13 +50,6 @@
     
     
     <gender>Masculine</gender>
-    <layouts>
-        <layout>Block Price Layout</layout>
-        <sections>
-            <label>Snapshot-Informationen</label>
-            <section>Snapshot Information</section>
-        </sections>
-    </layouts>
     <nameFieldLabel>Name des Preises</nameFieldLabel>
     <webLinks>
         <label><!-- EditAll --></label>

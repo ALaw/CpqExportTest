@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <caseType>Nominative</caseType>
@@ -54,13 +54,6 @@
     
     
     <gender>Feminine</gender>
-    <layouts>
-        <layout>Product Rule Layout</layout>
-        <sections>
-            <label>Nachschlageabfrageinformationen</label>
-            <section>Lookup Query Information</section>
-        </sections>
-    </layouts>
     <nameFieldLabel>Name der Produktregel</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- The Scope field must point to &apos;Product&apos; for Filter type Product Rules. --></errorMessage>

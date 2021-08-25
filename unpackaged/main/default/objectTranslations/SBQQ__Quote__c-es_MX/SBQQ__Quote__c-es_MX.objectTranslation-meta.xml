@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
@@ -102,29 +102,6 @@
         <name>SBQQ__NonCurrentQuoteLockedFields</name>
     </fieldSets>
     <gender>Masculine</gender>
-    <layouts>
-        <layout>Quote Layout</layout>
-        <sections>
-            <label>Texto adicional</label>
-            <section>Additional Text</section>
-        </sections>
-        <sections>
-            <label>Información de descuento</label>
-            <section>Discount Information</section>
-        </sections>
-        <sections>
-            <label>Información de socio</label>
-            <section>Partner Information</section>
-        </sections>
-        <sections>
-            <label>Opciones de presupuesto</label>
-            <section>Quote Options</section>
-        </sections>
-        <sections>
-            <label>Volviendo a calcular</label>
-            <section>Recalculating</section>
-        </sections>
-    </layouts>
     <layouts>
         <layout>Training Quote Layout</layout>
         <sections>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
@@ -21,13 +21,6 @@
     
     
     <gender>Feminine</gender>
-    <layouts>
-        <layout>Lookup Query Layout</layout>
-        <sections>
-            <label>Informações de pesquisa</label>
-            <section>Lookup Information</section>
-        </sections>
-    </layouts>
     <nameFieldLabel>Nº da consulta de pesquisa</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Testing Configuration Attributes is only supported for Lookup Queries associated with Product Rules. --></errorMessage>

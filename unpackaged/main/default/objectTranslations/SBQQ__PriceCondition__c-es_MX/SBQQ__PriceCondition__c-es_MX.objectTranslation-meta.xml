@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <plural>false</plural>
@@ -22,13 +22,6 @@
     
     
     <gender>Feminine</gender>
-    <layouts>
-        <layout>Price Condition Layout</layout>
-        <sections>
-            <label>Información de filtro</label>
-            <section>Filter Information</section>
-        </sections>
-    </layouts>
     <nameFieldLabel>Nº de condición</nameFieldLabel>
     <validationRules>
         <errorMessage><!-- Configuration Attribute as a tested object is only allowed in Configurator-scoped Price Rules. --></errorMessage>

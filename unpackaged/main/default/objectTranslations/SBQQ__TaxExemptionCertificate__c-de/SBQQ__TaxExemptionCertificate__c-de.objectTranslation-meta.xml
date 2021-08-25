@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
     <caseValues>
         <caseType>Nominative</caseType>
@@ -56,20 +56,5 @@
     
     
     <gender>Neuter</gender>
-    <layouts>
-        <layout>Tax Exemption Certificate Layout</layout>
-        <sections>
-            <label>Firmeninformationen</label>
-            <section>Company Information</section>
-        </sections>
-        <sections>
-            <label>Steuerzertifikat</label>
-            <section>Tax Certificate</section>
-        </sections>
-        <sections>
-            <label>Steuerzertifikatdetails</label>
-            <section>Tax Certificate Details</section>
-        </sections>
-    </layouts>
     <nameFieldLabel>Name des Steuerbefreiungszertifikats</nameFieldLabel>
 </CustomObjectTranslation>
