@@ -1,0 +1,23 @@
+{
+  "Object": "SBQQ__ProductAttributeSet__c",
+  "References": [
+    {
+      "Name": "SBQQ__ProductOption__r",
+      "ReferencedObject": "SBQQ__ProductOption__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAQ79ng000000L4i0a"
+      }
+    },
+    {
+      "Name": "SBQQ__AttributeSet__r",
+      "ReferencedObject": "SBQQ__AttributeSet__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "OAQ7ASE300000L400a"
+      }
+    }
+  ],
+  "Fields": {
+    "SBQQ__Sequence__c": "10.0",
+    "GearsetExternalId__c": "IAQ0Epc000000L4f0a"
+  }
+}

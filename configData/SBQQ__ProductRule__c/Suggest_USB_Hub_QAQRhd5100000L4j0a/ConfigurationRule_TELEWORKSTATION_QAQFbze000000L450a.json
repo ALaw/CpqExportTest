@@ -1,0 +1,33 @@
+{
+  "Object": "SBQQ__ConfigurationRule__c",
+  "References": [
+    {
+      "Name": "SBQQ__ProductRule__r",
+      "ReferencedObject": "SBQQ__ProductRule__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "QAQRhd5100000L4j0a"
+      }
+    },
+    {
+      "Name": "SBQQ__Product__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "UAQY1Zj000000L4t10"
+      }
+    },
+    {
+      "Name": "SBQQ__ProductFeature__r",
+      "ReferencedObject": "SBQQ__ProductFeature__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ],
+  "Fields": {
+    "SBQQ__Active__c": "true",
+    "SBQQ__AscendingNestedLevel__c": "",
+    "SBQQ__DescendingActionNesting__c": "",
+    "SBQQ__DescendingNestedLevel__c": "",
+    "GearsetExternalId__c": "QAQFbze000000L450a"
+  }
+}

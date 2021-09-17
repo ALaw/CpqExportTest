@@ -1,0 +1,30 @@
+{
+  "Object": "SBQQ__ProductAttribute__c",
+  "References": [
+    {
+      "Name": "SBQQ__AttributeSet__r",
+      "ReferencedObject": "SBQQ__AttributeSet__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "OAQ7ASE300000L400a"
+      }
+    },
+    {
+      "Name": "SBQQ__Attribute__r",
+      "ReferencedObject": "SBQQ__ConfigurationAttribute__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "CAQt5xJ400000L440a"
+      }
+    }
+  ],
+  "Fields": {
+    "SBQQ__AppliedImmediately__c": "",
+    "SBQQ__ApplyToProductOptions__c": "",
+    "SBQQ__AutoSelect__c": "",
+    "SBQQ__HiddenValues__c": "",
+    "SBQQ__Hidden__c": "",
+    "SBQQ__Required__c": "",
+    "SBQQ__Sequence__c": "30.0",
+    "SBQQ__ShownValues__c": "",
+    "GearsetExternalId__c": "MAQ9RZt000000L4g0a"
+  }
+}

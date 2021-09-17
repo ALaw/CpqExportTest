@@ -1,0 +1,42 @@
+{
+  "Object": "SBQQ__ErrorCondition__c",
+  "References": [
+    {
+      "Name": "SBQQ__Rule__r",
+      "ReferencedObject": "SBQQ__ProductRule__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "AAQuqd5100000L4j0a"
+      }
+    },
+    {
+      "Name": "SBQQ__FilterVariable__r",
+      "ReferencedObject": "SBQQ__SummaryVariable__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__TestedVariable__r",
+      "ReferencedObject": "SBQQ__SummaryVariable__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    },
+    {
+      "Name": "SBQQ__TestedAttribute__r",
+      "ReferencedObject": "SBQQ__ProductAttribute__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": ""
+      }
+    }
+  ],
+  "Fields": {
+    "SBQQ__FilterType__c": "Value",
+    "SBQQ__FilterValue__c": "Education",
+    "SBQQ__Index__c": "",
+    "SBQQ__Operator__c": "not equals",
+    "SBQQ__TestedField__c": "AccountIndustry__c",
+    "SBQQ__TestedObject__c": "Quote",
+    "GearsetExternalId__c": "AAU03ji100000L4H0a"
+  }
+}

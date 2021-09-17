@@ -1,0 +1,34 @@
+{
+  "Object": "SBQQ__OptionConstraint__c",
+  "References": [
+    {
+      "Name": "SBQQ__ConfiguredSKU__r",
+      "ReferencedObject": "Product2",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAQc0Zj000000L4t10"
+      }
+    },
+    {
+      "Name": "SBQQ__ConstrainedOption__r",
+      "ReferencedObject": "SBQQ__ProductOption__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAQfpLh000000L4i0a"
+      }
+    },
+    {
+      "Name": "SBQQ__ConstrainingOption__r",
+      "ReferencedObject": "SBQQ__ProductOption__c",
+      "ReferencedFields": {
+        "GearsetExternalId__c": "EAQapLh000000L4i0a"
+      }
+    }
+  ],
+  "Fields": {
+    "Name": "Mount bulb constraint",
+    "SBQQ__Active__c": "true",
+    "SBQQ__CheckPriorPurchases__c": "false",
+    "SBQQ__OptionConstraintGroup__c": "",
+    "SBQQ__Type__c": "Dependency",
+    "GearsetExternalId__c": "AAU0cwe100000L4V0a"
+  }
+}
